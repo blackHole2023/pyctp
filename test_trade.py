@@ -75,8 +75,8 @@ if __name__ == "__main__":
     front_trade = 'tcp://180.168.146.187:10202'
     front_quote = 'tcp://180.168.146.187:10212'
     broker = '9999'
-    investor = '008105'
-    pwd = '1'
+    investor = '619592'
+    pwd = 'Hjy520!!'
     appid = 'simnow_client_test'
     auth_code = '0000000000000000'
     
